@@ -1,12 +1,5 @@
 <h1 align="center">Hola 👋, Soy Sergio Bonache</h1>
 <h3 align="center">Desarrollador Web🌟.</h3>
-
-<br>
-
-<p align="right"> <h3>Vistas del perfil :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Sergio-Bonache" /> 
-  </p>
-
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
