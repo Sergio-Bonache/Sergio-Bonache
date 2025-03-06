@@ -69,9 +69,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sergio-Bonache&show_icons=true&locale=es&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="sergio bonache" /></p>
 
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergio-bonache&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="sergio-bonache" /></p>
-      
+<br>      
 
 [Sergio-Bonache](https://github.com/Sergio-Bonache)
