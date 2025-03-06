@@ -2,14 +2,14 @@
 <h3 align="center">Desarrollador Web🌟.</h3>
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Sergio Bonache" /></p>
 
 
 - 🌱 Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programación
 
-- 📫 Cómo contactarme: **adampithewan@gmail.com**
+- 📫 <b>Cómo contactarme:</b> **adampithewan@gmail.com**
 
-- ⚡ Dato curioso :- La comida y la música🎵 son razones para vivir.
+- ⚡ Me apasiona la tecnología y siempre estoy explorando nuevas tendencias en programación.
 
 <br>
 
