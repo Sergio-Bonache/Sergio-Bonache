@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programación
 
-- 📫 <b>Cómo contactarme:</b> **adampithewan@gmail.com**
+- 📫 <b>Cómo contactarme:</b> **sergiobonachelopez6@gmail.com**
 
 - ⚡ Me apasiona la tecnología y siempre estoy explorando nuevas tendencias en programación.
 
